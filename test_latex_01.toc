@@ -1,6 +1,0 @@
-\contentsline {section}{\numberline {1}冰}{1}% 
-\contentsline {subsection}{\numberline {1.1}柠檬水，冰西瓜}{1}% 
-\contentsline {subsubsection}{\numberline {1.1.1}柠檬树下柠檬果}{1}% 
-\contentsline {paragraph}{watermelon and lemon}{1}% 
-\contentsline {subparagraph}{西瓜皮}{1}% 
-\contentsline {paragraph}{lemon!!!}{1}% 
